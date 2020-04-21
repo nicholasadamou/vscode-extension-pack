@@ -2,7 +2,7 @@
   "name": "vscode-extension-pack",
   "displayName": "Nicholas Adamou's Extension Pack",
   "description": "All my installed VS Code extension, now available as an extension pack ✨",
-  "version": "1.6.2",
+  "version": "1.0.0",
   "publisher": "nicholasadamou",
   "author": "Nicholas Adamou <nicholasadamouemail@gmail.com>",
   "repository": "https://github.com/nicholasadamou/vscode-extension-pack.git",
