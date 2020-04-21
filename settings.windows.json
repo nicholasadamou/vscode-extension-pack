@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.autofetch": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+	"prettier.packageManager": "yarn",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true
+	},
+	"emmet.includeLanguages": {},
+	"svelte.language-server.runtime": "/Users/nicholas/n/bin/node",
+	"workbench.iconTheme": "material-icon-theme",
+	"window.zoomLevel": 0
+}
