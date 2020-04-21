@@ -9,7 +9,7 @@
   "homepage": "https://github.com/nicholasadamou/vscode-extension-pack.git",
   "scripts": {
     "regenerate": "node regenerate.js",
-    "publish": "vsce publish"
+    "publish": "npx vsce publish"
   },
   "engines": {
     "vscode": "^1.42.0"
