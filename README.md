@@ -30,7 +30,7 @@ yarn global add eslint prettier
 
 ## License
 
-[Copyright (c) 2020 Nicholas Adamou](./LICENSE)
+[Copyright (c) Nicholas Adamou](./LICENSE)
 
 [self]: https://marketplace.visualstudio.com/items?itemName=nicholasadamou.vscode-extension-pack
 [license]: https://marketplace.visualstudio.com/items/nicholasadamou.vscode-extension-pack/license
